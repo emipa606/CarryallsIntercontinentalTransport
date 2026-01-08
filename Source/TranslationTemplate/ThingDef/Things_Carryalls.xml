@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: kirov airship -->
+  <Airship_Kirov_Active.label>kirov airship</Airship_Kirov_Active.label>
+  <!-- EN: kirov airship (incoming) -->
+  <Airship_Kirov_Incoming.label>kirov airship (incoming)</Airship_Kirov_Incoming.label>
+  <!-- EN: kirov airship (leaving) -->
+  <Airship_Kirov_Leaving.label>kirov airship (leaving)</Airship_Kirov_Leaving.label>
+  <!-- EN: kirov airship -->
+  <Airship_Kirov_R_Active.label>kirov airship</Airship_Kirov_R_Active.label>
+  <!-- EN: kirov airship (incoming) -->
+  <Airship_Kirov_R_Incoming.label>kirov airship (incoming)</Airship_Kirov_R_Incoming.label>
+  <!-- EN: kirov airship (leaving) -->
+  <Airship_Kirov_R_Leaving.label>kirov airship (leaving)</Airship_Kirov_R_Leaving.label>
+  <!-- EN: standard airship -->
+  <Airship_Standard_Active.label>standard airship</Airship_Standard_Active.label>
+  <!-- EN: standard airship (incoming) -->
+  <Airship_Standard_Incoming.label>standard airship (incoming)</Airship_Standard_Incoming.label>
+  <!-- EN: standard airship (leaving) -->
+  <Airship_Standard_Leaving.label>standard airship (leaving)</Airship_Standard_Leaving.label>
+  <!-- EN: standard airship -->
+  <Airship_Standard_R_Active.label>standard airship</Airship_Standard_R_Active.label>
+  <!-- EN: standard airship (incoming) -->
+  <Airship_Standard_R_Incoming.label>standard airship (incoming)</Airship_Standard_R_Incoming.label>
+  <!-- EN: standard airship (leaving) -->
+  <Airship_Standard_R_Leaving.label>standard airship (leaving)</Airship_Standard_R_Leaving.label>
+  <!-- EN: ox carryall -->
+  <Carryall_GDI_Active.label>ox carryall</Carryall_GDI_Active.label>
+  <!-- EN: ox carryall (incoming) -->
+  <Carryall_GDI_Incoming.label>ox carryall (incoming)</Carryall_GDI_Incoming.label>
+  <!-- EN: ox carryall (leaving) -->
+  <Carryall_GDI_Leaving.label>ox carryall (leaving)</Carryall_GDI_Leaving.label>
+  <!-- EN: ox carryall -->
+  <Carryall_GDI_R_Active.label>ox carryall</Carryall_GDI_R_Active.label>
+  <!-- EN: ox carryall (incoming) -->
+  <Carryall_GDI_R_Incoming.label>ox carryall (incoming)</Carryall_GDI_R_Incoming.label>
+  <!-- EN: ox carryall (leaving) -->
+  <Carryall_GDI_R_Leaving.label>ox carryall (leaving)</Carryall_GDI_R_Leaving.label>
+  <!-- EN: vertigo carryall -->
+  <Carryall_Nod_Active.label>vertigo carryall</Carryall_Nod_Active.label>
+  <!-- EN: vertigo carryall (incoming) -->
+  <Carryall_Nod_Incoming.label>vertigo carryall (incoming)</Carryall_Nod_Incoming.label>
+  <!-- EN: vertigo carryall (leaving) -->
+  <Carryall_Nod_Leaving.label>vertigo carryall (leaving)</Carryall_Nod_Leaving.label>
+  <!-- EN: vertigo carryall -->
+  <Carryall_Nod_R_Active.label>vertigo carryall</Carryall_Nod_R_Active.label>
+  <!-- EN: vertigo carryall (incoming) -->
+  <Carryall_Nod_R_Incoming.label>vertigo carryall (incoming)</Carryall_Nod_R_Incoming.label>
+  <!-- EN: vertigo carryall (leaving) -->
+  <Carryall_Nod_R_Leaving.label>vertigo carryall (leaving)</Carryall_Nod_R_Leaving.label>
+  <!-- EN: standard carryall -->
+  <Carryall_standard_Active.label>standard carryall</Carryall_standard_Active.label>
+  <!-- EN: standard carryall (incoming) -->
+  <Carryall_standard_Incoming.label>standard carryall (incoming)</Carryall_standard_Incoming.label>
+  <!-- EN: standard carryall (leaving) -->
+  <Carryall_standard_Leaving.label>standard carryall (leaving)</Carryall_standard_Leaving.label>
+  <!-- EN: standard carryall -->
+  <Carryall_standard_R_Active.label>standard carryall</Carryall_standard_R_Active.label>
+  <!-- EN: standard carryall (incoming) -->
+  <Carryall_standard_R_Incoming.label>standard carryall (incoming)</Carryall_standard_R_Incoming.label>
+  <!-- EN: standard carryall (leaving) -->
+  <Carryall_standard_R_Leaving.label>standard carryall (leaving)</Carryall_standard_R_Leaving.label>
+</LanguageData>

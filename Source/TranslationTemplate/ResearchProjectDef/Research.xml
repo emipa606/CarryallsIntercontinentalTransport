@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: airship -->
+  <Research_Airships.label>airship</Research_Airships.label>
+  <!-- EN: Basic research for airships designed for transportation. Unlocks the standard airship. -->
+  <Research_Airships.description>Basic research for airships designed for transportation. Unlocks the standard airship.</Research_Airships.description>
+  <!-- EN: ox carryall -->
+  <Research_Carryall_GDI.label>ox carryall</Research_Carryall_GDI.label>
+  <!-- EN: Unlocks the Ox carryall for mass transport. -->
+  <Research_Carryall_GDI.description>Unlocks the Ox carryall for mass transport.</Research_Carryall_GDI.description>
+  <!-- EN: vertigo carryall -->
+  <Research_Carryall_Nod.label>vertigo carryall</Research_Carryall_Nod.label>
+  <!-- EN: Unlocks the Vertigo carryall for assault mission. -->
+  <Research_Carryall_Nod.description>Unlocks the Vertigo carryall for assault mission.</Research_Carryall_Nod.description>
+  <!-- EN: carryall -->
+  <Research_Carryalls.label>carryall</Research_Carryalls.label>
+  <!-- EN: Basic research on VTOL aircrafts designed for intercontinental transportation. Unlocks the standard carryall. -->
+  <Research_Carryalls.description>Basic research on VTOL aircrafts designed for intercontinental transportation. Unlocks the standard carryall.</Research_Carryalls.description>
+  <!-- EN: airship -->
+  <Research_Kirov.label>airship</Research_Kirov.label>
+  <!-- EN: Unlocks the kirov airship for mass transportation and suicide mission. -->
+  <Research_Kirov.description>Unlocks the kirov airship for mass transportation and suicide mission.</Research_Kirov.description>
+</LanguageData>
