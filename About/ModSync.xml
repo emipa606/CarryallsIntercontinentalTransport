@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>2cffae77-3b8b-4106-a5ab-f138cbc79972</ID>
   <ModName>Carryalls | Intercontinental Transport (Continued)</ModName>
-  <Version>1.6.0</Version>
+  <Version>1.6.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
 
